@@ -1,5 +1,4 @@
-# Project Name
-ToolLATS
+# ToolLATS
 
 ## Overview
 
