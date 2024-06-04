@@ -12,4 +12,4 @@ We are actively working on enhancing the features and fixing any existing issues
 
 ## Contact
 
-If you have any questions or need further information, feel free to reach out to us at [{pfeng915, ychen151, yzhong632}@connect.hkust-gz.edu.cn].
+If you have any questions or need further information, feel free to reach out to us at {pfeng915, ychen151, yzhong632}@connect.hkust-gz.edu.cn.
