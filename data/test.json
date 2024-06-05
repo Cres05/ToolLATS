@@ -1,0 +1,70 @@
+[
+    {
+        "query": "I'm going to Foshan from Guangzhou tomorrow. Could you please check the weather in these two places and give me some advice on travel planning?",
+        "query_id": 31      
+    },
+    {
+        "query": "I want to explore different types of movies. May I list five different genres of movies, and for each genre, suggest the most classic movie in that genre.",
+        "query_id": 32      
+    },
+    {
+        "query": "I'm trying to get fit recently. Can you give me a list of exercises for my back, chest and shoulders? It would be good to list back, chest and shoulder diseases that are prone to sitting for a long time, so that I can get a sense of the diseases.",
+        "query_id": 33      
+    },
+    {
+        "query": "I am interested in aircraft recently. Could you give me a list of the models of current mainstream aircraft and the relevant companies?",
+        "query_id": 34      
+    },
+    {
+        "query": "My company is organizing an outdoor team building event at a park in Los Angeles on June 5, 2024. We want to ensure the air quality of the day. Can I get historical air quality records and current weather conditions for Los Angeles? In addition, some fun team building activities are suggested.",
+        "query_id": 35      
+    },
+    {
+        "query": "I like listening to music. Could you give me four mainstream music genres and the most representative song for each genre?",
+        "query_id": 36      
+    },
+    {
+        "query": "I love watching movies. Can you give me five classic Leonardo dicaprio movies? And give the title of the movie for which he won the Oscar.",
+        "query_id": 37     
+    },
+    {
+        "query": "I like reading books. Can you name the three most popular books by Yu Hua? And give the publication years of these three books.",
+        "query_id": 38      
+    },
+    {
+        "query": "I am collecting famous quotes about love recently. Can you give three famous quotes about love? And give the author of these three sentences respectively.",
+        "query_id": 39      
+    },
+    {
+        "query": "I want to travel to Gansu and Qinghai after my graduation in June. Please help me plan a circle line of about ten scenic spots and recommend some local special snacks for each scenic spot.",
+        "query_id": 40      
+    },
+    {
+        "query": "I want to predict the outcome of the 2024 US election. Please give the top two people with the highest approval ratings on the eve of the 2020 US election, and give the names of these two parties.",
+        "query_id": 44     
+    },
+    {
+        "query": "I have a plan to travel to Japan, please give me the four-day travel guide to Tokyo and Kyoto, and give the current real-time exchange rate between China and Japan currency.",
+        "query_id": 45      
+    },
+    {
+        "query": "I want to buy hair care essential oil. Please give me the three best selling hair care essential oil brands on the market and the establishment dates of these three brands.",
+        "query_id": 46    
+    },
+    {
+        "query": "My stomach is not very good recently. Can you give me a recommendation of three meals a day for my stomach? And gave me a list of food recommendations for the stomach.",
+        "query_id": 48     
+    },
+    {
+        "query": "I want to learn machine learning recently, please give three classical algorithms of decision tree, and give pseudocode for these three problems.",
+        "query_id": 49      
+    },
+    {
+        "query": "I am about to take the college entrance examination. Please recommend three disciplines with good development prospects for the direction of science and engineering, and recommend corresponding promising careers for these three disciplines.",
+        "query_id": 50      
+    },
+    {
+        "query": "I want to enter the supply chain related industry. What are the top three companies in the world in terms of supply chain capability? And give me some career development advice for supply chain employment.",   
+        "query_id": 53    
+    }
+]
